@@ -4,7 +4,7 @@
 Actualmente un pequeño desarrollador de 20 años de edad con muchas ganas de crecer y desarrollarse plenamente en el área de desarrollo web y de software.
 
 ### Un poco de mi historia:
-Encaminando mi vida al logro de aquellas dos metas, me encuentro actualmente cursando el 3er año de Ingeniería en de la carrera de Sistemas Informáticos en la Universidad Abierta Interamericana (UAI) y, a su vez, a punto de graduarme como Full Stack Developer en Soy Henry. Además, cuento con un certificado de ingles de nivel avanzado con el fin de mejorar mis posibilidades dentro de este mundo laboral.
+Encaminando mi vida al logro de aquellas dos metas, me encuentro actualmente cursando el 3er año de Ingeniería en la carrera de Sistemas Informáticos en la Universidad Abierta Interamericana (UAI) y, a su vez, a punto de graduarme como Full Stack Developer en Soy Henry. Además, cuento con un certificado de ingles de nivel avanzado con el fin de mejorar mis posibilidades dentro de este mundo laboral.
 
 ### ¿Que aprendi en la universidad?
 Durante mi transcurso actual en la facultad aprendi habilidades como:
