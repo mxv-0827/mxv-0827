@@ -31,4 +31,4 @@ Estoy plenamente seguro que en el futuro sere un desarrollador mas que capacitad
 Si te intersa ver alguno de mis proyectos, puedes empezar viendo mis repositorios en orden de publicacion:
 - Pi-DOGS: Este es un proyecto que hice solo de 0 con el fin de demostrar a Henry mis habilidades de desarrollador.
 
-- AES: Este repositorio te permitira ingresar a una pagina web REAL que diseñe junto con 5 personas para una ONG de Peru denominada: Asociacion de Educacion Sanitaria. Si te intersa ver el resultado copia este link en tu navegador: https://eduacionsanitaria.org
+- AES: Este repositorio te permitira ingresar a una pagina web REAL que diseñe junto con 5 personas para una ONG de Peru denominada: Asociacion de Educacion Sanitaria. Si te intersa ver el resultado haz click sobre este link: https://eduacionsanitaria.org
