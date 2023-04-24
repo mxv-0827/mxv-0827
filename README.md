@@ -29,6 +29,8 @@ Estoy plenamente seguro que en el futuro sere un desarrollador mas que capacitad
 
 ### ¿Quieres ver alguno de mis proyecto?
 Si te intersa ver alguno de mis proyectos, puedes empezar viendo mis repositorios en orden de publicacion:
+- Rick and Morty: Este el primer proyecto que diseñe teniendo guias constantes mientras desconocia la mayoria de herramientas con las que trabajaba. Por supuesto, no es el proyecto mas hermoso pero si decides verlos todos, veras un enorme progreso en el diseño de las interfaces.
+
 - Pi-DOGS: Este es un proyecto que hice solo de 0 con el fin de demostrar a Henry mis habilidades de desarrollador.
 
 - PF-AES: Este repositorio te permitira ingresar a una pagina web REAL que diseñe junto con 5 personas para una ONG de Peru denominada: Asociacion de Educacion Sanitaria. Si te intersa ver el resultado haz click sobre este link: https://eduacionsanitaria.org
