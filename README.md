@@ -24,7 +24,7 @@ Durante mi trayecto en Henry aprendi a usar diversas tecnologias tales como:
 
 y bastantes mas...
 
-### ¿Como proveo mi futuro?:
+### ¿Como me veo mi futuro?:
 Estoy plenamente seguro que en el futuro sere un desarrollador mas que capacitado para afrontar cualquier tipo de desafio que se me imponga, junto con otras personas que seguro seran igual o incluso mas capaces que yo. Me veo aprendiendo constamente y mejorando en cada aspecto sobre el que pueda influir con el fin lograr superar obstaculos cada vez mas dificiles.
 
 ### ¿Quieres ver alguno de mis proyecto?
